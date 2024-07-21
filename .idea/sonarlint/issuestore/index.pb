@@ -53,11 +53,3 @@ Rstock-services/src/main/java/com/microservice/stockservices/dto/ErrorResponse.j
 ^stock-services/src/main/java/com/microservice/stockservices/exception/ApiExceptionHandler.java,8\2\821ef84fe8b572df72d27a22633c74c19bc28271
 ã
 [stock-services/src/main/java/com/microservice/stockservices/exception/ProjectException.java,f\7\f7037afe287a37725142fe103457afa0f83fae9b
-C
-api-gateway/pom.xml,2\b\2bfa2b108f2439e99e004f4085b58c22cf995f73
-ï
-eproduct-services/src/main/java/com/microservice/productservices/configuration/RestTemplateConfig.java,3\a\3a70c625962a9edbe8c7075777f81f5dd8378caa
-è
-_product-services/src/main/java/com/microservice/productservices/service/ProductServiceImpl.java,8\d\8db46bda514329bb25ef69e4d9b748458ff78fff
-ã
-[product-services/src/main/java/com/microservice/productservices/feign/StockFeignClient.java,9\d\9d089486b025d5ecf5fc19b680267e6e83765e24

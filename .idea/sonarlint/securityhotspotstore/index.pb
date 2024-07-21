@@ -53,11 +53,3 @@ Ystock-services/src/main/java/com/microservice/stockservices/StockServicesApplic
 aproduct-services/src/main/java/com/microservice/productservices/controller/ProductController.java,1\7\178cceb19fe172e52181a4ed7839a3535522eefa
 ã
 [product-services/src/main/java/com/microservice/productservices/service/ProductService.java,1\3\13049858d5f179ed48e626887a8be79b8dc1b34d
-ã
-[product-services/src/main/java/com/microservice/productservices/feign/StockFeignClient.java,9\d\9d089486b025d5ecf5fc19b680267e6e83765e24
-C
-api-gateway/pom.xml,2\b\2bfa2b108f2439e99e004f4085b58c22cf995f73
-ï
-eproduct-services/src/main/java/com/microservice/productservices/configuration/RestTemplateConfig.java,3\a\3a70c625962a9edbe8c7075777f81f5dd8378caa
-è
-_product-services/src/main/java/com/microservice/productservices/service/ProductServiceImpl.java,8\d\8db46bda514329bb25ef69e4d9b748458ff78fff
